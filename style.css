@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+}
+
+
+.cidade{
+    font-size: 30px;
+    background-color: rgb(0, 192, 240);
+    color: white;
+    height: 50px;
+}
